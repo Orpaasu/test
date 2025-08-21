@@ -1,0 +1,17 @@
+cd #changes directory
+ls #shows contents of current directory
+mkdir name #creates new folder
+type nul > filename.type #creates files
+git init
+git add
+git config --global user.email "your@example.com"
+git config --global user.name "YOur Name"
+git commit
+git config --list
+git commit --global
+rm #delete file
+git commit -m "" #saves message also
+git log 
+git checkout #
+git branch
+git checkout -b NameOfNewBranch #creates new branch
